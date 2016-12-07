@@ -164,7 +164,7 @@ body {
   overflow: hidden;
 }
 #timer {
-  color: #00d79b;
+  color: #037ef3;
   font-size: 12rem;
   position: absolute;
   left: 0;
@@ -181,7 +181,7 @@ body {
   content: '';
   display: block;
   border-radius: 50%;
-  border: 3px solid #00d79b;
+  border: 3px solid #037ef3;
   position: absolute;
   left: 50%;
   top: 50%;
