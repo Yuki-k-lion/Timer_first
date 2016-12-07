@@ -1,6 +1,8 @@
 # Timer_first
 practice js<br>
-モダンコーディング<br>
-http://www.shoeisha.co.jp/book/detail/9784798141572
-UXデザイン<be>
-http://www.shoeisha.co.jp/book/detail/9784798143330
+<ul>
+<li>モダンコーディング</li>
+<li>http://www.shoeisha.co.jp/book/detail/9784798141572</li>
+<li>UXデザイン</li>
+<li>http://www.shoeisha.co.jp/book/detail/9784798143330</li>
+</ul>
